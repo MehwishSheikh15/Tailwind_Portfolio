@@ -36,6 +36,22 @@ const PROJECTS = [
     technologies: ["HTML", "CSS", "Nextjs", "Typescript"],
     sourceLink: "https://todo-app-mehwish.vercel.app/",
   },
+   {
+    title: "Blog Website",
+    image: project3,
+    description:
+      "A platform for creating Created a feature-rich To-Do app with intuitive UI, task prioritization, and real-time synchronizationand publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+    technologies: ["HTML", "TailwindCSS", "Nextjs", "Typescript" , "ShadCN"],
+    sourceLink: "https://dynamic-blog-rose.vercel.app/",
+  },
+  {
+    title: "E-Commerce Website",
+    image: project2,
+    description:
+      "A platform for creating Created a feature-rich To-Do app with intuitive UI, task prioritization, and real-time synchronizationand publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+    technologies: ["HTML", "TailwindCSS", "Nextjs", "Typescript" , "Figma" , "Sanity"],
+    sourceLink: "https://comforty-web-nx82.vercel.app/",
+  },
 ];
 
 const Projects = () => {
